@@ -35,3 +35,6 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://www.zilog.com/docs/z80/um0080.pdf
 - https://ez80.abeck.pw/
 - https://clrhome.org/table/
+- https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit
+- https://docs.google.com/spreadsheets/d/1GumHduVgHWHIiJPKUKDZEtlZmMOOxRv2RqHLKyzRKos/edit
+- https://clrhome.org/asm/
