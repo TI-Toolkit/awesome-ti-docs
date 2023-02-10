@@ -38,3 +38,9 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit
 - https://docs.google.com/spreadsheets/d/1GumHduVgHWHIiJPKUKDZEtlZmMOOxRv2RqHLKyzRKos/edit
 - https://clrhome.org/asm/
+- https://tiplanet.org/forum/img2calc.php
+- https://tiplanet.org/forum/editgx.php
+- https://tiplanet.org/forum/edittns.php
+- https://tiplanet.org/scripts/zText/
+- https://tiplanet.org/forum/factoroms.php
+- https://tiplanet.org/scripts/qrcode/
