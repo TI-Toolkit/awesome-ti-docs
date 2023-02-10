@@ -31,3 +31,7 @@ List of uncategorized links (we'll deal with sorting them later)
 - http://merthsoft.com/linkguide/ti83+/
 - https://brandonw.net/calcstuff/DirectUSB.txt
 - https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk
+- https://www.zilog.com/docs/um0077.pdf
+- https://www.zilog.com/docs/z80/um0080.pdf
+- https://ez80.abeck.pw/
+- https://clrhome.org/table/
