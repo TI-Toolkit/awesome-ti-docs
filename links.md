@@ -21,3 +21,10 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://taricorp.gitlab.io/83pa28d/welcome.html
 - https://flatassembler.net/docs.php?article=fasmg_manual
 - https://www.cemetech.net/forum/viewtopic.php?t=1642
+- https://github.com/nspire-emus/firebird
+- https://ce-programming.github.io/CEmu/
+- https://lights0123.com/n-link/
+- http://wabbitemu.org/
+- http://lpg.ticalc.org/prj_tilem/
+- http://lpg.ticalc.org/prj_tilp/
+- https://www.cemetech.net/projects/jstified/
