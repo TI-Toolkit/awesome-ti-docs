@@ -28,3 +28,5 @@ List of uncategorized links (we'll deal with sorting them later)
 - http://lpg.ticalc.org/prj_tilem/
 - http://lpg.ticalc.org/prj_tilp/
 - https://www.cemetech.net/projects/jstified/
+- http://merthsoft.com/linkguide/ti83+/
+- https://brandonw.net/calcstuff/DirectUSB.txt
