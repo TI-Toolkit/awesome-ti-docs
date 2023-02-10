@@ -1,5 +1,5 @@
 # Awesome TI Docs
-A collection of awesome calculator documentation resources, all in one place. Contributions welcome.
+A collection of awesome calculator documentation resources and tools from all over the web, all in one place. Contributions welcome.
 
 ## Contents
 
