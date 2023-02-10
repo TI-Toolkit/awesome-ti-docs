@@ -9,6 +9,13 @@ List of uncategorized links (we'll deal with sorting them later)
 - http://petertillema.github.io/ICE/
 - https://axe.eeems.ca/Documentation.pdf
 - https://wiki.tiplanet.org/Versions_CE/en
+- https://roccoloxprograms.github.io/XlibcColorPicker/
+- https://yvantt.github.io/arTIfiCE/
+- https://roccoloxprograms.github.io/1555ColorPicker/
+- https://www.cemetech.net/forum/viewtopic.php?p=274411
+- https://www.cemetech.net/sc/
+- https://taricorp.gitlab.io/83pa28d/welcome.html
+- https://tiplanet.org/pb/
 - https://yvantt.github.io/arTIfiCE/
 - https://www.cemetech.net/forum/viewtopic.php?p=274411
 - https://taricorp.gitlab.io/83pa28d/welcome.html
