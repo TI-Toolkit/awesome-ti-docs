@@ -44,3 +44,4 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://tiplanet.org/scripts/zText/
 - https://tiplanet.org/forum/factoroms.php
 - https://tiplanet.org/scripts/qrcode/
+- https://debrouxl.github.io/tilp-linkguide/
