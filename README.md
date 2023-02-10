@@ -5,7 +5,7 @@ A collection of awesome calculator documentation resources, all in one place. Co
 
 - [ASM](#asm)
 - [TI-BASIC](#ti-basic)
-- [C](#c)
+- [C/C++](#c)
 - [Hardware](#hardware)
 - [Other](#other)
 
@@ -21,9 +21,9 @@ A collection of awesome calculator documentation resources, all in one place. Co
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - Documentation of the third-party TI-BASIC library Celtic CE.
 
-## C
+## C/C++
 
-- [CE C Toolchain](https://ce-programming.github.io/toolchain/index.html) - Documentation for the CE C toolchain. Includes all the information you need to start programming in C on the TI-84 Plus CE.
+- [CE Toolchain](https://ce-programming.github.io/toolchain/index.html) - Documentation for the CE C/C++ toolchain. Includes all the information you need to start programming in C and C++ on the TI-84 Plus CE.
 
 ## Hardware
 
