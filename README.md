@@ -5,7 +5,7 @@ A collection of awesome calculator documentation resources, all in one place. Co
 
 - [ASM](#asm)
 - [TI-BASIC](#ti-basic)
-- [C/C++](#c)
+- [C/C++](#cc)
 - [Hardware](#hardware)
 - [Other](#other)
 
