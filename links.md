@@ -43,3 +43,4 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://tiplanet.org/scripts/qrcode/
 - https://debrouxl.github.io/tilp-linkguide/
 - https://github.com/debrouxl/tilibs
+- https://www.club.cc.cmu.edu/~ajo/ti/tiopt.html
