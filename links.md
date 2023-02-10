@@ -23,7 +23,7 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://lights0123.com/n-link/
 - http://wabbitemu.org/
 - http://lpg.ticalc.org/prj_tilem/
-- http://lpg.ticalc.org/prj_tilp/
+- https://github.com/debrouxl/tilp_and_gfm/
 - https://www.cemetech.net/projects/jstified/
 - http://merthsoft.com/linkguide/ti83+/
 - https://brandonw.net/calcstuff/DirectUSB.txt
@@ -42,3 +42,4 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://tiplanet.org/forum/factoroms.php
 - https://tiplanet.org/scripts/qrcode/
 - https://debrouxl.github.io/tilp-linkguide/
+- https://github.com/debrouxl/tilibs
