@@ -16,9 +16,6 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://www.cemetech.net/sc/
 - https://taricorp.gitlab.io/83pa28d/welcome.html
 - https://tiplanet.org/pb/
-- https://yvantt.github.io/arTIfiCE/
-- https://www.cemetech.net/forum/viewtopic.php?p=274411
-- https://taricorp.gitlab.io/83pa28d/welcome.html
 - https://flatassembler.net/docs.php?article=fasmg_manual
 - https://www.cemetech.net/forum/viewtopic.php?t=1642
 - https://github.com/nspire-emus/firebird
