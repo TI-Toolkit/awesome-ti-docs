@@ -30,3 +30,4 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://www.cemetech.net/projects/jstified/
 - http://merthsoft.com/linkguide/ti83+/
 - https://brandonw.net/calcstuff/DirectUSB.txt
+- https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk
