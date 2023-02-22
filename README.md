@@ -54,7 +54,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   **Supports: 🌈 🎨**
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - Jailbreak for the TI-84 Plus CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.  
   **Supports: 🌈**
-- [Project Builder](https://tiplanet.org/pb/) - Online C/C++ IDE for TI-84 Plus CE/83 Premium CE calculators.  
+- [Project Builder](https://tiplanet.org/pb/) - Online C/C++, TI-BASIC, and Python IDE for TI-84 Plus CE/83 Premium CE calculators.  
   **Supports: 🌈**
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - Online IDE for TI-BASIC, (e)z80 ASM, and C programs.  
   **Supports: ◒ 🌈 🎨**
