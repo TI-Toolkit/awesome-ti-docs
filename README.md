@@ -4,9 +4,10 @@ A collection of awesome calculator documentation resources and tools from all ov
 ## Contents
 
 - [ASM](#asm)
-- [TI-BASIC](#ti-basic)
 - [C/C++](#cc)
+- [TI-BASIC](#ti-basic)
 - [Hardware](#hardware)
+- [Tools](#tools) 
 - [Other](#other)
 
 | **Icon** | **Models** |
@@ -19,20 +20,23 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ## ASM
 
-- [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - Contains most of the documented system calls, along with other useful information pertaining to calculator software/hardware.  
-  **Supports: ◒ 🌈 🎨**
+- [CE Versions](https://wiki.tiplanet.org/Versions_CE/en) - Boot and OS versions for the TI-84 Plus CE(-T) and TI-83 Premium CE.
+  **Supports: 🌈**
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation for Doors CS related assembly routines and formatting.  
   **Supports: ◒ 🎨**
+- [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - Contains most of the documented system calls, along with other useful information pertaining to calculator software/hardware.  
+  **Supports: ◒ 🌈 🎨**
+
 ## TI-BASIC
 
+- [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - Documentation of the third-party TI-BASIC library Celtic CE.  
+  **Supports: 🌈**
+- [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.  
+  **Supports: ◒ 🎨**
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) - Documentation and tutorials for TI-BASIC programming.  
   **Supports: ◒ 🌈 🎨 🎈**
 - [TI-BASIC Useful Routines](https://learn.cemetech.net/index.php?title=TI-BASIC:Useful_Routines) - Useful routines for TI-BASIC programs.  
   **Supports: ◒ 🌈 🎨**
-- [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.  
-  **Supports: ◒ 🎨**
-- [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - Documentation of the third-party TI-BASIC library Celtic CE.  
-  **Supports: 🌈**
 
 ## C/C++
 
@@ -44,9 +48,20 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - Contains hardware documentation for some TI z80 and eZ80 calculators.  
   **Supports: ◒ 🌈 🎨**
 
+## Tools
+
+- [1555 Color Picker](https://roccoloxprograms.github.io/1555ColorPicker/) - Color picker which can use 1555 or 565 color mode, which can be useful for C/ASM and hybrid TI-BASIC on color calculators.
+  **Supports: 🌈 🎨**
+- [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - Jailbreak for the TI-84 Plus CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.
+  **Supports: 🌈**
+- [Sourcecoder 3](https://www.cemetech.net/sc/) - Online IDE for TI-BASIC, (e)z80 ASM, and C programs.
+  **Supports: ◒ 🌈 🎨**
+- [Xlibc Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - Color picker which uses the Xlibc palette, which can be useful for C/ASM and hybrid TI-BASIC on color calculators. You can upload a custom palette as well.
+  **Supports: 🌈 🎨**
+
 ## Other
 
-- [ICE Documentation](http://petertillema.github.io/ICE/) - Documentation for the TI-84 Plus CE programming language ICE, created by Peter Tillema. Note: ICE is no longer in active development.  
-  **Supports: 🌈**
 - [AXE Documentation](https://axe.eeems.ca/Documentation.pdf) - Documentation for the TI-83/84 Plus programming language AXE, created by Kevin Horowitz.  
   **Supports: ◒**
+- [ICE Documentation](http://petertillema.github.io/ICE/) - Documentation for the TI-84 Plus CE programming language ICE, created by Peter Tillema. Note: ICE is no longer in active development.  
+  **Supports: 🌈**
