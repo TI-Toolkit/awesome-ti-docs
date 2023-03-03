@@ -20,7 +20,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ## ASM
 
-- [CE Versions](https://wiki.tiplanet.org/Versions_CE/en) - Boot and OS versions for the TI-84 Plus CE(-T) and TI-83 Premium CE.
+- [Learn TI-83+ Assembly in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html) - Guide to learning assembly on the TI-83+.  
+  **Supports: ◒**
+- [CE Versions](https://wiki.tiplanet.org/Versions_CE/en) - Boot and OS versions for the TI-84 Plus CE(-T) and TI-83 Premium CE.  
   **Supports: 🌈**
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation for Doors CS related assembly routines and formatting.  
   **Supports: ◒ 🎨**
@@ -31,6 +33,8 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - Documentation of the third-party TI-BASIC library Celtic CE.  
   **Supports: 🌈**
+- [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - Various useful routines for TI-BASIC programs.  
+  **Supports: ◒ 🎨 🌈**
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.  
   **Supports: ◒ 🎨**
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) - Documentation and tutorials for TI-BASIC programming.  
@@ -54,10 +58,22 @@ A collection of awesome calculator documentation resources and tools from all ov
   **Supports: 🎨 🌈**
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - Jailbreak for the TI-84 Plus CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.  
   **Supports: 🌈**
+- [CEmu](https://ce-programming.github.io/CEmu/) - TI-84+ CE emulator for Linux, macOS, and Windows.  
+  **Supports: 🌈**
+- [fasmg manual](https://flatassembler.net/docs.php?article=fasmg_manual) - This document describes the syntax of flat assembler g language, with basic examples.  
+  **Supports: ◒ 🎨 🌈**
+- [Firebird Emu](https://github.com/nspire-emus/firebird) - TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.  
+  **Supports: 🎈**
+- [N-Link](https://lights0123.com/n-link/) - Open-source TI-Nspire transfer software for Linux, macOS, and Windows. Does not require a license or key to use like the official TI software!  
+  **Supports: 🎈**
 - [Project Builder](https://tiplanet.org/pb/) - Online C/C++, TI-BASIC, and Python IDE for TI-84 Plus CE/83 Premium CE calculators.  
   **Supports: 🌈**
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - Online IDE for TI-BASIC, (e)z80 ASM, and C programs.  
   **Supports: ◒ 🎨 🌈**
+- [TilEm](http://lpg.ticalc.org/prj_tilem/) - Emulator and debugger for TI z80 calculators. It works on Linux/Unix systems and Windows, along with other platforms that supports GTK+.  
+  **Supports: ◒**
+- [Wabbitemu](http://wabbitemu.org/) - Emulator of TI z80 calculators which works on Android, Linux, macOS, and Windows.  
+  **Supports: ◒**
 - [Xlibc Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - Color picker which uses the Xlibc palette, which can be useful for C/ASM and hybrid TI-BASIC on color calculators. You can upload a custom palette as well.  
   **Supports: 🎨 🌈**
 

@@ -1,14 +1,6 @@
 List of uncategorized links (we'll deal with sorting them later)
 
 - https://www.cemetech.net/forum/viewtopic.php?p=274411
-- https://taricorp.gitlab.io/83pa28d/index.html
-- https://flatassembler.net/docs.php?article=fasmg_manual
-- https://www.cemetech.net/forum/viewtopic.php?t=1642
-- https://github.com/nspire-emus/firebird
-- https://ce-programming.github.io/CEmu/
-- https://lights0123.com/n-link/
-- http://wabbitemu.org/
-- http://lpg.ticalc.org/prj_tilem/
 - https://github.com/debrouxl/tilp_and_gfm/
 - https://www.cemetech.net/projects/jstified/
 - http://merthsoft.com/linkguide/ti83+/
