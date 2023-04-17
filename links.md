@@ -17,3 +17,4 @@ List of uncategorized links (we'll deal with sorting them later)
 - https://www.club.cc.cmu.edu/~ajo/ti/tiopt.html
 - https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML
 - https://education.ti.com/html/webhelp/EG_TI83PremCE/FR/Subsystems/e-guide_83prem_ce_fr/content/m_appxa/aa_appxalpha.HTML
+- https://docs.google.com/document/d/149TjgUw-5K_y2LTgGFmgQ5jTe6b-HI94AJCSB6fsIwE
