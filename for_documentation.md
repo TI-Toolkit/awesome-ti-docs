@@ -31,7 +31,7 @@ The `rest` parameter is the entire remainder of the first argument to `For(` fol
 The `start` parameter is an expression which is evaluated to determine the second argument to `For(`. It must evaluate to a real number before `body` is executed.
 
 #### `end`
-The `end` parameter is an expression which is evaluated to determine the third argument to `For(`. It must evaluate to a real number before body is executed.
+The `end` parameter is an expression which is evaluated to determine the third argument to `For(`. It must evaluate to a real number before `body` is executed.
 
 #### `step`
 The `step` parameter is an expression which is evaluated to determine the fourth argument to `For(`, and has a default value of 1. It must evaluate to a real number before body is executed.
@@ -55,7 +55,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 
 1. The expressions `start`, `end`, and `step` are evaluated
 2. The var pointed to by `first` is updated to the value of `start`
-3. How does start `compare` to `end`?
+3. How does `start` compare to `end`?
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
     * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 4. The first line in `body` is executed
@@ -115,10 +115,8 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
     * If `loop_end` exists, `invis` is incremented by step and execution returns to Step 6
     * If `loop_end` does not exist, execution terminates
 
-
 ## Miscellaneous Findings and Tidbits
 * The expression `first rest` is evaluated with side-effects. For example:
-    * `For(Asolve(X-1,X,0),0,1` will set X to 1
+    * `For(Asolve(X-1,X,0),0,1` will set `X` to 1
     * `For(AsetTime(11,0,0),0,1` will set the time to 11:00 AM
-* The VAT leak described in Case 1b is dubbed the “invisible reals” bug. TI has been aware of this bug for (presumably) some time; see the discussion [here](https://www.cemetech.net/forum/viewtopic.php?t=18933).
-
+* The VAT leak described in Case 1b is dubbed the "invisible reals" bug. TI has been aware of this bug for (presumably) some time; see the discussion [here](https://www.cemetech.net/forum/viewtopic.php?t=18933).
