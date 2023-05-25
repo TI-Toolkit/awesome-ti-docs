@@ -124,10 +124,12 @@ A collection of awesome calculator documentation resources and tools from all ov
   Open-source calculator transfer software for most calculators and link cables.
 - [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - ◒ 🎨 🌈  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
+- [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - ◒ 🎨 🌈  
+  Offline IDE for TI-BASIC with DCS and xLibC support.
 - [Wabbitemu](http://wabbitemu.org/) - ◒  
   Emulator of TI Z80 calculators which works on Android, Linux, macOS, and Windows.
-- [Xlibc Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - 🎨 🌈  
-  Color picker which uses the Xlibc palette, which can be useful for C/ASM and hybrid TI-BASIC on color calculators. You can upload a custom palette as well.
+- [xLibC Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - 🎨 🌈  
+  Color picker which uses the xLibC palette, which can be useful for C/ASM and hybrid TI-BASIC on color calculators. You can upload a custom palette as well.
 
 ## Other
 
