@@ -95,9 +95,11 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [1555 Color Picker](https://roccoloxprograms.github.io/1555ColorPicker/) - 🎨 🌈  
   Color picker which can use 1555 or 565 color mode, which can be useful for C/ASM and hybrid TI-BASIC on color calculators.
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - 🌈  
-  Jailbreak for the TI-84+ CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.
+  "Jailbreak" for the TI-84+ CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.
 - [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
   TI-84+ CE emulator for Linux, macOS, and Windows.
+- [FactoRoms](https://tiplanet.org/forum/factoroms.php) - ◒ 🎨 🌈 🎈  
+  Online console ROM to calculator file conversion tool (requires log-in)
 - [fasmg manual](https://flatassembler.net/docs.php?article=fasmg_manual) - ◒ 🎨 🌈  
   This document describes the syntax of flat assembler g language, with basic examples.
 - [Firebird Emu](https://github.com/nspire-emus/firebird) - 🎈  
@@ -106,8 +108,12 @@ A collection of awesome calculator documentation resources and tools from all ov
   Image converter for a number of calculator image file types.
 - [jsTIfied](https://www.cemetech.net/projects/jstified/) - ◒ 🎨  
   Online calculator emulator for Z80 TI-83+/84+ calculators.
+- [mViewer GX Creator](https://tiplanet.org/gx) - ◒ 🎨 🌈 🎈  
+  Online PDF/Image to calculator file conversion tool (requires log-in)
+- [nCreator](https://tiplanet.org/forum/edittns.php) - 🎈  
+  Online rich text (Nspire Notes app) creation tool (requires log-in)
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
-  Open-source TI-Nspire transfer software for Linux, macOS, and Windows. Does not require a license or key to use like the official TI software!
+  Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required)
 - [Project Builder](https://tiplanet.org/pb/) - 🌈  
   Online C/C++, TI-BASIC, and Python IDE for TI-84 Plus CE/83 Premium CE calculators.
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
