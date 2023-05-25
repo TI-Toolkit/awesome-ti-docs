@@ -63,7 +63,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
 - [For( Documenation](https://docs.google.com/document/d/149TjgUw-5K_y2LTgGFmgQ5jTe6b-HI94AJCSB6fsIwE) - ◒ 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
-- [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340)
+- [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340) - 🎨 🌈  
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) - ◒ 🎨 🌈 🎈  
   Documentation and tutorials for TI-BASIC programming.
@@ -99,9 +99,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
   TI-84+ CE emulator for Linux, macOS, and Windows.
 - [FactoRoms](https://tiplanet.org/forum/factoroms.php) - ◒ 🎨 🌈 🎈  
-  Online console ROM to calculator file conversion tool (requires log-in)
+  Online console ROM to calculator file conversion tool (requires TI Planet log-in).
 - [fasmg manual](https://flatassembler.net/docs.php?article=fasmg_manual) - ◒ 🎨 🌈  
-  This document describes the syntax of flat assembler g language, with basic examples.
+  Documentation and basic examples of flat assembler g language.
 - [Firebird Emu](https://github.com/nspire-emus/firebird) - 🎈  
   TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.
 - [img2calc](https://tiplanet.org/forum/img2calc.php) - 🌈 🎈  
@@ -109,11 +109,11 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [jsTIfied](https://www.cemetech.net/projects/jstified/) - ◒ 🎨  
   Online calculator emulator for Z80 TI-83+/84+ calculators.
 - [mViewer GX Creator](https://tiplanet.org/gx) - ◒ 🎨 🌈 🎈  
-  Online PDF/Image to calculator file conversion tool (requires log-in)
+  Online PDF/Image to calculator file conversion tool (requires TI Planet log-in).
 - [nCreator](https://tiplanet.org/forum/edittns.php) - 🎈  
-  Online rich text (Nspire Notes app) creation tool (requires log-in)
+  Online rich text (Nspire Notes app) creation tool (requires TI Planet log-in).
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
-  Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required)
+  Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required).
 - [Project Builder](https://tiplanet.org/pb/) - 🌈  
   Online C/C++, TI-BASIC, and Python IDE for TI-84 Plus CE/83 Premium CE calculators.
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
