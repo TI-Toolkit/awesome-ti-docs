@@ -57,7 +57,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 2. The var pointed to by `first` is updated to the value of `start`
 3. How does start `compare` to `end`?
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to line after `loop_end`
+    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 4. The first line in `body` is executed
     * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
 5. The remaining lines of `body` are executed
@@ -71,7 +71,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 2. The expressions `start`, `end`, and `step` are evaluated
 3. How does `start` compare to `end`?
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to line after `loop_end`
+    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 4. Were any variables manipulated prior to the loop?
     * If so, the space taken up by the last non-program variable in the VAT is leaked
 5. The first line in `body` is executed
@@ -90,7 +90,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 4. An invisible counter `invis` is set to the value of `start`
 5. How does `start` compare to `end`?
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to line after `loop_end`
+    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 6. The first line in `body` is executed
     * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
 7. Does `loop_end` exist?
@@ -108,7 +108,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 5. An invisible counter `invis` is set to the value of start
 6. How does `start` compare to `end`?
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to line after `loop_end`
+    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 7. The first line in `body` is executed
     * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
 8. Does `loop_end` exist?
