@@ -4,8 +4,8 @@ A collection of awesome calculator documentation resources and tools from all ov
 ## Contents
 
 - [ASM](#asm)
-- [C/C++](#cc)
 - [TI-BASIC](#ti-basic)
+- [C/C++](#cc)
 - [Hardware](#hardware)
 - [Tools](#tools) 
 - [Other](#other)
