@@ -95,7 +95,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [1555 Color Picker](https://roccoloxprograms.github.io/1555ColorPicker/) - 🎨 🌈  
   Color picker which can use 1555 or 565 color mode, which can be useful for C/ASM and hybrid TI-BASIC on color calculators.
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - 🌈  
-  "Jailbreak" for the TI-84+ CE/83 Premium CE calculators necessary for running ASM programs on OS versions 5.5 and above.
+  "Jailbreak" for the TI-84+CE/83PCE calculators necessary for running ASM programs on OS versions 5.5 and above.
 - [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
   TI-84+ CE emulator for Linux, macOS, and Windows.
 - [FactoRoms](https://tiplanet.org/forum/factoroms.php) - ◒ 🎨 🌈 🎈  
@@ -115,7 +115,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required).
 - [Project Builder](https://tiplanet.org/pb/) - 🌈  
-  Online C/C++, TI-BASIC, and Python IDE for TI-84 Plus CE/83 Premium CE calculators.
+  Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE calculators.
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
 - [TilEm](http://lpg.ticalc.org/prj_tilem/) - ◒  
