@@ -61,7 +61,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Various useful routines for TI-BASIC programs.
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - ◒ 🎨  
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
-- [For( Documenation](https://docs.google.com/document/d/149TjgUw-5K_y2LTgGFmgQ5jTe6b-HI94AJCSB6fsIwE) - ◒ 🎨 🌈  
+- [For( Documenation](https://github.com/TI-Toolkit/awesome-ti-docs/blob/docs/for_documentation.md) - ◒ 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
 - [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340) - 🎨 🌈  
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
