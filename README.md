@@ -21,8 +21,10 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ## ASM
 
+- [asm-docs](https://github.com/CE-Programming/asm-docs) - 🌈  
+  ASM documentation, tutorials, and examples assembled by the CE toolchain team.
 - [CE Versions](https://wiki.tiplanet.org/Versions_CE/en) - 🌈  
-  Boot and OS versions for the TI-84+CE(-T) and TI-83 Premium CE.
+  Boot and OS versions for the TI-84+CE(-T) and TI-83PCE.
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - ◒ 🎨  
   Documentation for Doors CS related assembly routines and formatting.
 - [Direct USB](https://brandonw.net/calcstuff/DirectUSB.txt) - ◒  
@@ -140,4 +142,4 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [AXE Documentation](https://axe.eeems.ca/Documentation.pdf) - ◒  
   Documentation for the TI-83+/84+ programming language AXE, created by Kevin Horowitz.
 - [ICE Documentation](http://petertillema.github.io/ICE/) - 🌈  
-  Documentation for the TI-84+ CE programming language ICE, created by Peter Tillema. Note: ICE is no longer in active development.
+  Documentation for the TI-84+CE programming language ICE, created by Peter Tillema. Note: ICE is no longer in active development.
