@@ -7,7 +7,8 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [TI-BASIC](#ti-basic)
 - [C/C++](#cc)
 - [Hardware](#hardware)
-- [Tools](#tools) 
+- [Tools](#tools)
+- [Emulators](#emulators)
 - [Other](#other)
 
 | **Icon** | **Models** |
@@ -96,18 +97,12 @@ A collection of awesome calculator documentation resources and tools from all ov
   Color picker which can use 1555 or 565 color mode, which can be useful for C/ASM and hybrid TI-BASIC on color calculators.
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - 🌈  
   "Jailbreak" for the TI-84+CE/83PCE calculators necessary for running ASM programs on OS versions 5.5 and above.
-- [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
-  TI-84+ CE emulator for Linux, macOS, and Windows.
 - [FactoRoms](https://tiplanet.org/forum/factoroms.php) - ◒ 🎨 🌈 🎈  
   Online console ROM to calculator file conversion tool (requires TI Planet log-in).
 - [fasmg manual](https://flatassembler.net/docs.php?article=fasmg_manual) - ◒ 🎨 🌈  
   Documentation and basic examples of flat assembler g language.
-- [Firebird Emu](https://github.com/nspire-emus/firebird) - 🎈  
-  TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.
 - [img2calc](https://tiplanet.org/forum/img2calc.php) - 🌈 🎈  
   Image converter for a number of calculator image file types.
-- [jsTIfied](https://www.cemetech.net/projects/jstified/) - ◒ 🎨  
-  Online calculator emulator for Z80 TI-83+/84+ calculators.
 - [mViewer GX Creator](https://tiplanet.org/gx) - ◒ 🎨 🌈 🎈  
   Online PDF/Image to calculator file conversion tool (requires TI Planet log-in).
 - [nCreator](https://tiplanet.org/forum/edittns.php) - 🎈  
@@ -118,18 +113,27 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE calculators.
 - [Sourcecoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
-- [TilEm](http://lpg.ticalc.org/prj_tilem/) - ◒  
-  Emulator and debugger for TI z80 calculators. It works on Linux/Unix systems and Windows, along with other platforms that supports GTK+.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - ◒ 🎨 🌈 🎈  
   Open-source calculator transfer software for most calculators and link cables.
 - [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - ◒ 🎨 🌈  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - ◒ 🎨 🌈  
   Offline IDE for TI-BASIC with DCS and xLibC support.
-- [Wabbitemu](http://wabbitemu.org/) - ◒  
-  Emulator of TI Z80 calculators which works on Android, Linux, macOS, and Windows.
 - [xLibC Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - 🎨 🌈  
   Color picker which uses the xLibC palette, which can be useful for C/ASM and hybrid TI-BASIC on color calculators. You can upload a custom palette as well.
+  
+## Emulators
+
+- [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
+  TI-84+CE emulator for Linux, macOS, and Windows.
+- [Firebird Emu](https://github.com/nspire-emus/firebird) - 🎈  
+  TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.
+- [jsTIfied](https://www.cemetech.net/projects/jstified/) - ◒ 🎨  
+  Online calculator emulator for Z80 TI-83+/84+ calculators.
+- [TilEm](http://lpg.ticalc.org/prj_tilem/) - ◒  
+  TI Z80 emulator and debugger for Linux, macOS, Windows, and other platforms that support GTK+.
+- [Wabbitemu](http://wabbitemu.org/) - ◒  
+  TI Z80 emulator for Android, Linux, macOS, and Windows.
 
 ## Other
 
