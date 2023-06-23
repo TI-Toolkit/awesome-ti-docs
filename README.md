@@ -29,6 +29,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Documentation for Doors CS related assembly routines and formatting.
 - [Direct USB](https://brandonw.net/calcstuff/DirectUSB.txt) - ◒  
   Partial analysis of the USB protocol on the TI-84+.
+- [eZ80 Docs](https://ezce.github.io/ez80-docs/) - 🌈  
+  General documentation for assembly on the TI-84+CE (WIP).
 - [eZ80 Opcode Table](https://ez80.abeck.pw/) - 🌈  
   Table of every eZ80 opcode.
 - [eZ80 User Manual](https://www.zilog.com/docs/um0077.pdf) - 🌈  
@@ -83,6 +85,8 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [CE Toolchain](https://ce-programming.github.io/toolchain/index.html) - 🌈  
   Documentation for the CE C/C++ toolchain. Includes all the information you need to start programming in C and C++ on the TI-84+CE.
+- [Git Guide](https://www.cemetech.net/forum/viewtopic.php?t=16330) - 🌈  
+  A short guide on using Git and GitHub angled toward projects which use the CE toolchain.
 
 ## Hardware
 
@@ -90,6 +94,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Documented hardware revisions, motherboards, and codenames for calculators and accessories.
 - [Packaging Codes](https://docs.google.com/spreadsheets/d/1GumHduVgHWHIiJPKUKDZEtlZmMOOxRv2RqHLKyzRKos/edit#gid=0) - ◒ 🎨 🌈 🎈  
   Documented serial numbers and packaging codes.
+- [Silver Link RE](https://www.cemetech.net/forum/viewtopic.php?p=302980) - ◒ 🎨 🌈  
+  Documentation and schematics for the TI USB Graph Silver Link cable.
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - ◒ 🎨 🌈  
   Contains hardware documentation for some TI (e)Z80 calculators.
 
