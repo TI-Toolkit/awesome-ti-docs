@@ -37,7 +37,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Official Zilog documentation of the eZ80 CPU.
 - [Floating Point Hacks](https://www.cemetech.net/forum/viewtopic.php?p=274411) - ◒ 🎨 🌈  
   Trick to get real variables to point to places they shouldn't. 
-- [Learn TI-83+ Assembly in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html) - ◒  
+- [Learn TI-83+ Assembly in 28 Days](https://tutorials.eeems.ca/ASMin28Days/welcome.html) ([mirror](https://taricorp.gitlab.io/83pa28d/index.html)) - ◒  
   Guide to learning assembly on the TI-83+.
 - [Link Guide](http://merthsoft.com/linkguide/ti83+/) ([mirror](https://debrouxl.github.io/tilp-linkguide/)) - ◒  
   Link protocol documentation for TI-83+/84+ calculators. Also contains useful documentation for variable formats.
