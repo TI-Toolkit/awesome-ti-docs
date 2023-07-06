@@ -179,7 +179,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [CEmu](https://ce-programming.github.io/CEmu/) - 🌈  
   TI-84+CE emulator for Linux, macOS, and Windows.
-- [Firebird Emu](https://github.com/nspire-emus/firebird) - 🎈  
+- [Firebird](https://github.com/nspire-emus/firebird) - 🎈  
   TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.
 - [jsTIfied](https://www.cemetech.net/projects/jstified/) - ◒ 🎨  
   Online calculator emulator for Z80 TI-83+/84+ calculators.
@@ -219,7 +219,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required).
 - [Project Builder](https://tiplanet.org/pb/) - 🌈  
   Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE calculators.
-- [Sourcecoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
+- [SourceCoder 3](https://www.cemetech.net/sc/) - ◒ 🎨 🌈  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - ◒ 🎨 🌈 🎈  
   Open-source calculator transfer software for most calculators and link cables.
