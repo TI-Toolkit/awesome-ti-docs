@@ -59,7 +59,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
     * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 4. The first line in `body` is executed
-    * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
+    * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 5. The remaining lines of `body` are executed
 6. Does `loop_end` exist?
     * If `loop_end` exists, `first` is incremented by `step` and execution returns to Step 3
@@ -75,7 +75,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 4. Were any variables manipulated prior to the loop?
     * If so, the space taken up by the last non-program variable in the VAT is leaked
 5. The first line in `body` is executed
-    * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
+    * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 6. The remaining lines of body are executed
 7. Does `loop_end` exist?
     * If `loop_end` exists, raise `ERR:UNDEFINED`
@@ -92,7 +92,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
     * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 6. The first line in `body` is executed
-    * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
+    * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 7. Does `loop_end` exist?
     * If `loop_end` exists, `invis` is incremented by `step` and execution returns to Step 5
     * If `loop_end` does not exist, execution terminates
@@ -110,7 +110,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
     * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
     * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
 7. The first line in `body` is executed
-    * If `paren` does not exist and the line is a conditional statement (`IS>(`, `DS<(`, or single-line `If`) which evaluates to false, execution will be monstrously slower
+    * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 8. Does `loop_end` exist?
     * If `loop_end` exists, `invis` is incremented by step and execution returns to Step 6
     * If `loop_end` does not exist, execution terminates
