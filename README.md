@@ -16,7 +16,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   - [C/C++](#cc)
   - [Hardware](#hardware)
   - [Emulators](#emulators)
-  - [Archives](#archives)
+  - [Downloads](#downloads)
   - [Tools](#tools)
   - [Other](#other)
 
@@ -188,7 +188,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [Wabbitemu](http://wabbitemu.org/) - ◒  
   TI Z80 emulator for Android, Linux, macOS, and Windows.
 
-### Archives
+### Downloads
 
 - [Cemetech](https://www.cemetech.net/) - ◒ 🎨 🌈 🎈  
   Archive and forum site hosting discussion pertaining to calculators and other projects.
