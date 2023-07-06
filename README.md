@@ -22,9 +22,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 | **Icon** | **Models** |
 | -- | -- |
-| ◒ | <details><summary>Monochrome z80</summary> <ul><li>TI-82</li><li>TI-82 A</li><li>TI-83</li><li>TI-83+</li><li>TI-84+</li><li>.fr variants of the above.</li></ul></details> |
+| ◒ | <details><summary>Monochrome z80</summary> <ul><li>TI-82</li><li>TI-83</li><li>TI-83+</li><li>TI-84+</li></ul></details> |
 | 🎨 | TI-84+CSE |
-| 🌈 | <details><summary>Color ez80</summary> <ul><li>TI-84+CE</li><li>TI-83 PCE</li><li>TI-82 AEP</li><li>-T variants of the above.</li><li>Python variants of the above.</li></ul></details> |
+| 🌈 | <details><summary>Color ez80</summary> <ul><li>TI-84+CE (-T)</li><li>TI-83 PCE</li><li>Python variants of the above.</li><li>TI-82 AEP</li></ul></details> |
 | 🎈 | TI-Nspire |
 
 ## I want to...
