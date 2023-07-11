@@ -136,6 +136,10 @@ A collection of awesome calculator documentation resources and tools from all ov
   A copy of the Catalog for the TI-83PCE (in French).
 - [84+CE Catalog](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML) - 🌈  
   A copy of the Catalog for the TI-84+CE.
+- [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - ◒ 🎨 🌈  
+  Replete guide with tips and tricks for TI-BASIC code golfing.
+- [binomcdf( Shenanigans](https://www.cemetech.net/forum/viewtopic.php?t=17286) - ◒ 🎨 🌈  
+  Exploration of a bug in the `binomcdf(` implementation between OS 1.03 and 5.6.0 that produces corrupted floats.
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - 🌈  
   Documentation of the third-party TI-BASIC library Celtic CE.
 - [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - ◒ 🎨 🌈  
