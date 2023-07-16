@@ -55,7 +55,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### ...learn assembly for my calculator
 
-- [Learn TI-83+ Assembly in 28 Days](https://tutorials.eeems.ca/ASMin28Days/welcome.html) ([mirror](https://taricorp.gitlab.io/83pa28d/index.html)) - ◒  
+- [Learn TI-83+ Assembly in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html) (modernized version) &bull; Original version: [on ticalc.org](https://www.ticalc.org/archives/files/fileinfo/268/26877.html), and [web-hosted](https://tutorials.eeems.ca/ASMin28Days/welcome.html). - ◒  
   Assembly in 28 Days is the go-to tutorial for learning Z80 ASM; if you want to learn eZ80 as well, this guide is an essential starting point.
 - [Z80 Opcode Table](https://clrhome.org/table/) (◒) or [eZ80 Opcode Table](https://ez80.abeck.pw/) (🌈)  
   The opcode tables are great for learning ASM and reading hex code from others.
@@ -113,8 +113,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Official Zilog documentation of the eZ80 CPU.
 - [Floating Point Hacks](https://www.cemetech.net/forum/viewtopic.php?p=274411) - ◒ 🎨 🌈  
   Trick to get real variables to point to places they shouldn't. 
-- [Learn TI-83+ Assembly in 28 Days](https://tutorials.eeems.ca/ASMin28Days/welcome.html) ([mirror](https://taricorp.gitlab.io/83pa28d/index.html)) - ◒  
-  Guide to learning assembly on the TI-83+.
+- [Learn TI-83+ Assembly in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html) (modernized version) &bull; Original version: [on ticalc.org](https://www.ticalc.org/archives/files/fileinfo/268/26877.html), and [web-hosted](https://tutorials.eeems.ca/ASMin28Days/welcome.html). - ◒  
+  Guide to learning assembly on the TI-83+; a useful starting point for writing assembly for other models.
 - [Link Guide](http://merthsoft.com/linkguide/ti83+/) ([mirror](https://debrouxl.github.io/tilp-linkguide/)) - ◒  
   Link protocol documentation for TI-83+/84+ calculators. Also contains useful documentation for variable formats.
 - [TI-83+ Developer's SDK](https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk) - ◒  
