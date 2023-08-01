@@ -127,6 +127,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online IDE for Z80 ASM.
 - [Z80 Opcode Table](https://clrhome.org/table/) - ◒  
   Table of every Z80 opcode.
+- [Z80 Optimized Routines](https://github.com/Zeda/Z80-Optimized-Routines) - ◒  
+  Expertly-crafted optimized routines for common algorithms, graphics, and mathematical operations (among other things).
 - [Z80 User Manual](https://www.zilog.com/docs/z80/um0080.pdf) - ◒  
   Official Zilog documentation of the Z80 CPU.
 
