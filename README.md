@@ -75,7 +75,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### ...write and run programs on my computer
 
-- [Wabbitemu](http://wabbitemu.org/) (◒), [jsTIfied](https://www.cemetech.net/projects/jstified/) (◒ 🎨), or [CEmu](https://ce-programming.github.io/CEmu/) (🌈)  
+- [Wabbitemu](https://github.com/sputt/wabbitemu) (◒), [jsTIfied](https://www.cemetech.net/projects/jstified/) (◒ 🎨), or [CEmu](https://ce-programming.github.io/CEmu/) (🌈)  
   These emulators for the 83+ series of calculators allow you to run programs on your computer using a copy of your calculator's ROM.
 - [Firebird](https://github.com/nspire-emus/firebird) - 🎈  
   Nspire owners can find an emulator for their calculators in Firebird.
@@ -191,7 +191,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online calculator emulator for Z80 TI-83+/84+ calculators.
 - [TilEm](http://lpg.ticalc.org/prj_tilem/) - ◒  
   TI Z80 emulator and debugger for Linux, macOS, Windows, and other platforms that support GTK+.
-- [Wabbitemu](http://wabbitemu.org/) - ◒  
+- [Wabbitemu](https://github.com/sputt/wabbitemu) - ◒  
   TI Z80 emulator for Android, Linux, macOS, and Windows.
 
 ### Downloads
