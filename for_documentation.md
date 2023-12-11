@@ -18,11 +18,11 @@ All `For(` commands are of the following form:
 #### `first`
 The `first` parameter is a component of the first argument to `For(`.
 
-* If `first` begins with a real var, finance var, list token, or matrix token, then first is taken to be that sole token.
+* If `first` begins with a real var, finance var, list token, or matrix token, then `first` is taken to be that sole token.
 * If `first` begins with `|L`, then `first` is taken to be a list name, parsed greedily; recall that list names are alphanumeric, cannot begin with a digit, and contain no more than 5 tokens.
 * If `first` begins with a GDB token, `ERR: DATA TYPE` is raised.
 * If `first` begins with a token which points to an archived var, `ERR: ARCHIVE` is raised.
-* If `first` begins with any other token, `ERR: SYNTAX` is raised.
+* If `first` begins with any other token, `ERR: SYNTAX` is raised (as far as can be discerned).
 
 #### `rest`
 The `rest` parameter is the entire remainder of the first argument to `For(` following `first`. For most purposes, the evaluation of `first rest` (i.e. the entire first argument to `For(`) dictates macroscopic loop behavior.
@@ -34,7 +34,7 @@ The `start` parameter is an expression which is evaluated to determine the secon
 The `end` parameter is an expression which is evaluated to determine the third argument to `For(`. It must evaluate to a real number before `body` is executed.
 
 #### `step`
-The `step` parameter is an expression which is evaluated to determine the fourth argument to `For(`, and has a default value of 1. It must evaluate to a real number before body is executed.
+The `step` parameter is an expression which is evaluated to determine the fourth argument to `For(`, and has a default value of 1. It must evaluate to a real number before `body` is executed.
 
 #### `paren`
 The `paren` parameter is a single closing parenthesis, which may or may not exist. Its existence has strange consequences on the speed of the execution of the body of the `For(` loop.
