@@ -231,6 +231,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Open-source calculator transfer software for most calculators and link cables.
 - [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - ◒ 🎨 🌈  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
+- [File Format Documentation](https://github.com/TI-Toolkit/tivars_lib_py/wiki) - ◒ 🎨 🌈
+  Documentation of the variable files used by TI-(e)Z80 calculators.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - ◒ 🎨 🌈  
   Offline IDE for TI-BASIC with DCS and xLibC support.
 - [xLibC Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - 🎨 🌈  
