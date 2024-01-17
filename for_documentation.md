@@ -3,7 +3,7 @@
 ## Introduction
 The For( command is weird. Some bits and pieces of its strangeness have been known [since the release of the CSE](http://tibasicdev.wikidot.com/for), but the first known partially-replete elaboration was done on the Cemetech Discord in August 2021 by yours truly while working on extensions to [`For(T,R,A,N`](https://www.cemetech.net/forum/viewtopic.php?t=16666&highlight=). The original Discord conversation is littered with unrelated moderation issues, and so will not be linked or transcribed here; instead, I summarize the details in a more readable format, along with additional discoveries made since then.
 
-In short, `For(` is evil. It does things it should not do. It does things it has no right to do. It can evaluate lists. It can run solve(. It can set your clock. It can run until the end of time. The title of this document is valid syntax. `For(` is terrifying, and we may only hope to wrestle its horrors by endeavoring to understand it.
+In short, `For(` is evil. It does things it should not do. It does things it has no right to do. It can evaluate lists. It can run `solve(`. It can set your clock. It can run until the end of time. The title of this document is valid syntax. `For(` is terrifying, and we may only hope to wrestle its horrors by endeavoring to understand it.
 
 Note that this document is a purely descriptive account of `For(`, as we have yet to delve into the disassembly to pick out all of what’s going on (beyond a few one-off peeks when this was first discovered). Although, if `For(` is this despicable, one can only cower at TI’s code for it.
 
