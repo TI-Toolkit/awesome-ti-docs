@@ -28,13 +28,13 @@ The `first` parameter is a component of the first argument to `For(`.
 The `rest` parameter is the entire remainder of the first argument to `For(` following `first`. For most purposes, the evaluation of `first rest` (i.e. the entire first argument to `For(`) dictates macroscopic loop behavior.
 
 #### `start`
-The `start` parameter is an expression which is evaluated to determine the second argument to `For(`. It must evaluate to a real number before `body` is executed.
+The `start` parameter is an expression which is evaluated to determine the second argument to `For(`. It must evaluate to a real number *before* `body` is executed.
 
 #### `end`
-The `end` parameter is an expression which is evaluated to determine the third argument to `For(`. It must evaluate to a real number before `body` is executed.
+The `end` parameter is an expression which is evaluated to determine the third argument to `For(`. It must evaluate to a real number *before* `body` is executed.
 
 #### `step`
-The `step` parameter is an expression which is evaluated to determine the fourth argument to `For(`, and has a default value of 1. It must evaluate to a real number before `body` is executed.
+The `step` parameter is an expression which is evaluated to determine the fourth argument to `For(`, and has a default value of 1. It must evaluate to a real number *before* `body` is executed.
 
 #### `paren`
 The `paren` parameter is a single closing parenthesis, which may or may not exist. Its existence has strange consequences on the speed of the execution of the body of the `For(` loop.
@@ -51,7 +51,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 
 ### Case 1: `first rest` is a real number
 
-#### Case 1a: `rest` is empty
+#### Case 1a: `rest` is empty (standard behavior)
 
 1. The expressions `start`, `end`, and `step` are evaluated
 2. The var pointed to by `first` is updated to the value of `start`
@@ -88,9 +88,9 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 2. The expression `first rest` is evaluated
 3. The expressions `start`, `end`, and `step` are evaluated
 4. An invisible counter `invis` is set to the value of `start`
-5. How does `start` compare to `end`?
-    * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
+5. How does `invis` compare to `end`?
+    * If `invis` > `end` and `step` is positive, execution skips to the line after `loop_end`
+    * If `invis` < `end` and `step` is negative, execution skips to the line after `loop_end`
 6. The first line in `body` is executed
     * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 7. Does `loop_end` exist?
@@ -106,13 +106,13 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
 3. The expression `first rest` is evaluated
 4. The expressions `start`, `end`, and `step` are evaluated
 5. An invisible counter `invis` is set to the value of start
-6. How does `start` compare to `end`?
-    * If `start` > `end` and `step` is positive, execution skips to the line after `loop_end`
-    * If `start` < `end` and `step` is negative, execution skips to the line after `loop_end`
+6. How does `invis` compare to `end`?
+    * If `invis` > `end` and `step` is positive, execution skips to the line after `loop_end`
+    * If `invis` < `end` and `step` is negative, execution skips to the line after `loop_end`
 7. The first line in `body` is executed
     * If `paren` does not exist and the line is `IS>(`, `DS<(`, or a *false* single-line `If`, execution will be monstrously slower
 8. Does `loop_end` exist?
-    * If `loop_end` exists, `invis` is incremented by step and execution returns to Step 6
+    * If `loop_end` exists, `invis` is incremented by `step` and execution returns to Step 6
     * If `loop_end` does not exist, execution terminates
 
 ## Miscellaneous Findings and Tidbits
