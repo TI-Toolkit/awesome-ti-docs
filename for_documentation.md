@@ -97,7 +97,7 @@ Any errors which might occur in the outlined steps for reasons not necessarily i
     * If `loop_end` exists, `invis` is incremented by `step` and execution returns to Step 5
     * If `loop_end` does not exist, execution terminates
 
-### Case 3: first rest is a string
+### Case 3: `first rest` is a string
 
 1. Is `first` a string literal?
     * If so, raise `ERR: SYNTAX`
