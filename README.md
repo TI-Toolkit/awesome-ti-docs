@@ -238,7 +238,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### Other
 
+- [AXE Commands](https://axe.eeems.ca/Commands.html) - ◒  
+  Table of commands for the TI-83+/84+ programming language AXE, created by Kevin Horowitz.
 - [AXE Documentation](https://axe.eeems.ca/Documentation.pdf) - ◒  
-  Documentation for the TI-83+/84+ programming language AXE, created by Kevin Horowitz.
+  General documentation for AXE in PDF form.
 - [ICE Documentation](http://petertillema.github.io/ICE/) - 🌈  
   Documentation for the TI-84+CE programming language ICE, created by Peter Tillema. Note: ICE is no longer in active development.
