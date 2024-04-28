@@ -134,12 +134,8 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### TI-BASIC
 
-- [83PCE Catalog](https://education.ti.com/html/webhelp/EG_TI83PremCE/FR/Subsystems/e-guide_83prem_ce_fr/content/m_appxa/aa_appxalpha.HTML) - 🌈  
-  A copy of the Catalog for the TI-83PCE (in French).
-- [84+CE Catalog](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML) - 🌈  
-  A copy of the Catalog for the TI-84+CE.
-- [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - ◒ 🎨 🌈  
-  Replete guide with tips and tricks for TI-BASIC code golfing.
+- [84+CE Catalog (English)](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML) / [83PCE Catalog (French)](https://education.ti.com/html/webhelp/EG_TI83PremCE/FR/Subsystems/e-guide_83prem_ce_fr/content/m_appxa/aa_appxalpha.HTML) - 🌈  
+  A copy of the Catalog for the TI-84+CE/TI-83PCE.
 - [binomcdf( Shenanigans](https://www.cemetech.net/forum/viewtopic.php?t=17286) - ◒ 🎨 🌈  
   Exploration of a bug in the `binomcdf(` implementation between OS 1.03 and 5.6.0 that produces corrupted floats.
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - 🌈  
@@ -150,6 +146,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
 - [For( Documenation](https://github.com/TI-Toolkit/awesome-ti-docs/blob/docs/for_documentation.md) - ◒ 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
+- [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - ◒ 🎨 🌈  
+  Replete guide with tips and tricks for TI-BASIC code golfing.
 - [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340) - 🎨 🌈  
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) - ◒ 🎨 🌈 🎈  
