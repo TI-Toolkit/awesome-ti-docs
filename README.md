@@ -154,6 +154,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) - ◒ 🎨 🌈 🎈  
   Documentation and tutorials for TI-BASIC programming.
+- [TI-Basic Programming Guide for the TI-84+CE](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08) - 🌈  
+  TI's own guide and command reference for programming in TI-BASIC.
 - [TI-BASIC Useful Routines](https://learn.cemetech.net/index.php?title=TI-BASIC:Useful_Routines) - ◒ 🎨 🌈  
   Useful routines for TI-BASIC programs.
 - [tiopt](https://www.club.cc.cmu.edu/~ajo/ti/tiopt.html) - ◒ 🎨 🌈  
