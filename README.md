@@ -62,7 +62,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [Z80 User Manual](https://www.zilog.com/docs/z80/um0080.pdf) (◒) or [eZ80 User Manual](https://www.zilog.com/docs/um0077.pdf) (🌈)  
   Zilog, the makers of the (e)Z80, provide official documentation for their chips and ASM instructions.
 - [TI-83+ Developer's SDK](https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk) ([mirror](https://github.com/TI-Toolkit/awesome-ti-docs/tree/docs/sdk)) - ◒  
-  Official TI-83+ assembly documentation by TI. Some things may apply to other calculators as well.
+  Official TI-83+ assembly documentation by TI. Many things apply to other calculators as well.
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - ◒ 🎨 🌈  
   WikiTI hosts community-sourced documentation on TI-OS and how to interface with it in assembly.
 
@@ -120,7 +120,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [Link Guide](http://merthsoft.com/linkguide/ti83+/) ([mirror](https://debrouxl.github.io/tilp-linkguide/)) - ◒  
   Link protocol documentation for TI-83+/84+ calculators. Also contains useful documentation for variable formats.
 - [TI-83+ Developer's SDK](https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk) ([mirror](https://github.com/TI-Toolkit/awesome-ti-docs/tree/docs/sdk)) - ◒  
-  Official TI-83+ assembly documentation by TI. Some things may apply to other calculators as well.
+  Official TI-83+ assembly documentation by TI. Many things apply to other calculators as well.
 - [tilibs](https://github.com/debrouxl/tilibs) - ◒ 🎨 🌈 🎈  
   Libraries utilized by TiLP and other software to transfer and convert files between calculators.
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - ◒ 🎨 🌈  
