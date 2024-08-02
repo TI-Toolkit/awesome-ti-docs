@@ -33,12 +33,12 @@ A collection of awesome calculator documentation resources and tools from all ov
 *This list is specifically limited to communities with a strong TI focus. If an invite link breaks, [please make an issue](https://github.com/TI-Toolkit/awesome-ti-docs/issues/new).* 
 - [Cemetech](https://cemetech.net) - [Forum](https://cemetech.net), On-site chat, [Discord](https://discord.gg/FqtkgRaupc) - **EN**  
   Cemetech is a forum for sharing hardware and software projects of all kinds, with a special emphasis on TI calculators. It has several on-site tools.
-- [MyCalcs](https://my.calcs.quest).  
-  Calculator enthusiasts should register their calcs on MyCalcs, a site for cataloging and exploring the history of your calculators.
+- [MyCalcs](https://my.calcs.quest)  
+  Calculator enthusiasts should register their calcs on MyCalcs, a community site for cataloging and exploring the history of your calculators and their accessories.
 - [TI-Planet](https://tiplanet.org) - [Forum](https://tiplanet.org), On-site chat, [Discord](https://discord.gg/67t9G5HkDA) - **FR, EN**  
-  TI-Planet is a French forum dedicated to all TI calculators. It offers a variety of on-site tools and a large international community.
+  TI-Planet is a French forum dedicated to all calculators, especially TI models. It offers a variety of on-site tools and a large international community.
 - [CE Programming Discord](https://discord.gg/z4zjNcr5Tt) - **EN**  
-  For technical support regarding the (CEmu, C Toolchain for the CE), please visit the Discord or either of the forums above.
+  For technical support regarding the (CEmu, C/C++ Toolchain for the CE), please visit the Discord or either of the forums above.
 - [TI Toolkit Discord](https://discord.gg/VEzwDfZFVe) - **EN**  
   Please visit our Discord or either of the forums above for assistance with [our family of tools and libraries](https://github.com/TI-Toolkit). It is also a great place to start if you want to contribute to our projects.
 
