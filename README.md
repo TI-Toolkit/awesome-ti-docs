@@ -37,7 +37,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Calculator enthusiasts should register their calcs on MyCalcs, a site for cataloging and exploring the history of your calculators.
 - [TI-Planet](https://tiplanet.org) - [Forum](https://tiplanet.org), On-site chat, [Discord](https://discord.gg/67t9G5HkDA) - **FR, EN**  
   TI-Planet is a French forum dedicated to all TI calculators. It offers a variety of on-site tools and a large international community.
-- [CE Programming Discord](https://discord.gg/z4zjNcr5Tt) - **EN**
+- [CE Programming Discord](https://discord.gg/z4zjNcr5Tt) - **EN**  
   For technical support regarding the (CEmu, C Toolchain for the CE), please visit the Discord or either of the forums above.
 - [TI Toolkit Discord](https://discord.gg/VEzwDfZFVe) - **EN**  
   Please visit our Discord or either of the forums above for assistance with [our family of tools and libraries](https://github.com/TI-Toolkit). It is also a great place to start if you want to contribute to our projects.
