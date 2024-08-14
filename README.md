@@ -61,7 +61,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 ### ...learn TI-BASIC
 
 - [TI-Basic Starter Kit](http://tibasicdev.wikidot.com/starter-kit) - ◒ 🎨 🌈 🎈  
-  TI-Basic Developer's Starter Kit is a fantastic guide through the fundamentals of TI-BASIC, with culminating sample programs to test your understanding.
+  TI-Basic Developer's Starter Kit is a fantastic community-developed guide through the fundamentals of TI-BASIC, with culminating sample programs to test your understanding.
+- [TI-BASIC Programming Guide](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08) - 🌈  
+  TI also provides an extensive and pedagogically-rich TI-BASIC tutorial.
 - [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - ◒ 🎨 🌈  
   This community collection of optimized idioms and routines is essential for writing concise and effective TI-BASIC code.
 - [84+CE Catalog](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML) & [83PCE Catalog](https://education.ti.com/html/webhelp/EG_TI83PremCE/FR/Subsystems/e-guide_83prem_ce_fr/content/m_appxa/aa_appxalpha.HTML) - 🌈  
