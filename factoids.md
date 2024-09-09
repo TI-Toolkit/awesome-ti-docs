@@ -10,10 +10,6 @@ Due to an OS bug, starting an Appvar name with lowercase `r` (_font_ 0x72) hides
 
 `SortA(` and `SortD(` are substantially faster after 5.1.0.
 
-Graphing a function updates the independent and dependent variables listed below for each point plotted. The dependent variables are furthermore zeroed whenever the graphscreen is first viewed after `ClrDraw`.
-| Mode       | Independent Var | Dependent Var(s) |
-| ---------- | --------------- | ---------------- |
-| Function   | `X`             | `Y`              |
-| Parametric | `T`             | `X`, `Y`         |
-| Polar      | `Θ`             | `R`              |
-| Sequence   | `𝑛`             |                  |
+Graphing a function iterates throught the independent variable (`X`, `T`, `Θ`, or `𝑛`) to plot each point on the screen, storing the Cartesian coordinates of the point to be plotted in `X` and `Y`. Furthermore, `R` is updated to the value of `r(Θ)` for each point in Polar mode.
+
+The dependent variable(s) in a graphing mode are zeroed whenever the graphscreen is first viewed after `ClrDraw`. These are `Y` in Function mode, `X` & `Y` in Parametric mode, and `R` in Polar mode.
