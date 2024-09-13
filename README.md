@@ -213,6 +213,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   TI Z80 emulator and debugger for Linux, macOS, Windows, and other platforms that support GTK+.
 - [Wabbitemu](https://github.com/sputt/wabbitemu) - ◒  
   TI Z80 emulator for Android, Linux, macOS, and Windows.
+- [TI-84 Calculator Online](https://ti84calculator.net/) - 🎨  
+  Online emulator for TI-83+/84+ calculators.
 
 ### Downloads
 
