@@ -72,7 +72,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 ### ...learn assembly for my calculator
 
 - [Learn TI-83+ Assembly in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html) (modernized version) &bull; Original version: [on ticalc.org](https://www.ticalc.org/archives/files/fileinfo/268/26877.html), and [web-hosted](https://tutorials.eeems.ca/ASMin28Days/welcome.html). - ◒  
-  Assembly in 28 Days is the go-to tutorial for learning Z80 ASM; if you want to learn eZ80 as well, this guide is an essential starting point.
+  Assembly in 28 Days is the go-to tutorial for learning Z80 ASM; if you want to learn eZ80 as well, this guide is an essential starting point. <sup><sub>There is some work being done to create a replacement specifically for the eZ80 (i.e. the CE and variants) at https://ezce.github.io/ez80-docs/ but this is a work in progress.</sub></sub>
 - [Z80 Opcode Table](https://clrhome.org/table/) (◒) or [eZ80 Opcode Table](https://ez80.abeck.pw/) (🌈)  
   The opcode tables are great for learning ASM and reading hex code from others.
 - [Z80 User Manual](https://www.zilog.com/docs/z80/um0080.pdf) (◒) or [eZ80 User Manual](https://www.zilog.com/docs/um0077.pdf) (🌈)  
