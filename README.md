@@ -157,7 +157,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 - Assembly Hex Codes for the [83+/84+](http://tibasicdev.wikidot.com/hexcodes) (◒), [84+CSE](http://tibasicdev.wikidot.com/84cse:hexcodes) (🎨), and [84+CE](http://tibasicdev.wikidot.com/84ce:hexcodes) (🌈)  
   Short assembly snippets that can be called from TI-BASIC using the `AsmPrgm` commands.
 - [binomcdf( Shenanigans](https://www.cemetech.net/forum/viewtopic.php?t=17286) - ◒ 🎨 🌈  
-  Exploration of a bug in the `binomcdf(` implementation between OS 1.03 and 5.6.0 that produces corrupted floats.
+  Exploration of a bug in the `binomcdf(` implementation between OS 1.03 and 5.6.1 that produces corrupted floats.
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - 🌈  
   Documentation of the third-party TI-BASIC library Celtic CE.
 - [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - ◒ 🎨 🌈  
