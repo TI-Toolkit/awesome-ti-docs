@@ -13,3 +13,7 @@ Due to an OS bug, starting an Appvar name with lowercase `r` (_font_ 0x72) hides
 Graphing a function iterates throught the independent variable (`X`, `T`, `Θ`, or `𝑛`) to plot each point on the screen, storing the Cartesian coordinates of the point to be plotted in `X` and `Y`. Furthermore, `R` is updated to the value of `r(Θ)` for each point in Polar mode.
 
 The dependent variable(s) in a graphing mode are zeroed whenever the graphscreen is first viewed after `ClrDraw`. These are `Y` in Function mode, `X` & `Y` in Parametric mode, and `R` in Polar mode.
+
+It is possible for a skipped `While` or `For(` loop to find the same `End` as a skipped `Else`.
+
+TI uses Dekker's algorithm for their numeric solvers.
