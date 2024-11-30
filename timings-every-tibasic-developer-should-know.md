@@ -9,7 +9,9 @@ real variable lookup (fresh VAT)             25
 real variable lookup (realistic VAT)         35+
 multiplication                               65
 division                                    100
+DelVar (fresh VAT, var exists)              130
 sqrt                                        150
+DelVar (realistic VAT, var exists)          230+
 sin/cos                                     350
 rand                                        410
 tan                                         430
