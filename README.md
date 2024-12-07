@@ -164,6 +164,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Various useful routines for TI-BASIC programs.
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - ◒ 🎨  
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
+- [Error Messages](https://education.ti.com/html/webhelp/EG_TI84PlusCE/UK/Subsystems/eg_ti84plusce_ref/content/m_errors/em_errormessages.HTML) - ◒ 🎨 🌈  
+  TI's reference for the possible error types and messages on the CE.
 - [For( Documenation](https://github.com/TI-Toolkit/awesome-ti-docs/blob/docs/for_documentation.md) - ◒ 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
 - [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - ◒ 🎨 🌈  
