@@ -5,6 +5,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 | 🎹 | <details><summary>Monochrome z80</summary> <ul><li>TI-82</li><li>TI-83</li><li>TI-83+</li><li>TI-84+</li></ul></details> |
 | 🎨 | TI-84+CSE |
 | 🌈 | <details><summary>Color ez80</summary> <ul><li>TI-84+CE (-T)</li><li>TI-83 PCE</li><li>Python variants of the above.</li><li>TI-82 AEP</li></ul></details> |
+| 💎 | <details><summary>68k</summary> <ul><li>TI-89 (Ti)</li><li>TI-92 (II)</li><li>TI-92+</li><li>V200</li></ul></details>
 | 🎈 | TI-Nspire |
 
 ## Contents
@@ -47,15 +48,15 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - 🌈  
   If you have a newer 84+CE/83PCE (at least OS 5.5), arTIfiCE can be used to unlock the ability to run ASM programs.
-- [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
+- [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 💎 🎈  
   TILP can be used as an alternative to TI's official software for sending/receiving files to/from most calculators.
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   N-Link can be used as an alternative to TI's official software for sending/receiving files to/from the Nspire.
 - [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🎈  
   Cemetech hosts a program archive and forum pertaining to calculators of all varieties.
-- [ticalc](https://www.ticalc.org/) - 🎹 🎨 🌈 🎈  
+- [ticalc](https://www.ticalc.org/) - 🎹 🎨 🌈 💎 🎈  
   ticalc is the go-to site to download calculator programs or upload your own.
-- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 🎈  
+- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 💎 🎈  
   TI-Planet hosts a program archive and forum with many online tools and a large international userbase.
 
 ### ...learn TI-BASIC
@@ -108,7 +109,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - 🎹 🎨 🌈  
   WikiTI hosts community-sourced hardware documentation for the 83+ series of calculators.
-- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 🎈  
+- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 💎 🎈  
   This spreadsheet details every known version of hardware found in TI calculators, including prototype revisions.
 
 ## All Resources
@@ -137,7 +138,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Link protocol documentation for TI-83+/84+ calculators. Also contains useful documentation for variable formats.
 - [TI-83+ Developer's SDK](https://education.ti.com/en/guidebook/details/en/830D08FF31804AEAA2F03B8F5E89AD14/83psdk) ([mirror](https://github.com/TI-Toolkit/awesome-ti-docs/tree/docs/sdk)) - 🎹  
   Official TI-83+ assembly documentation by TI. Many things apply to other calculators as well.
-- [tilibs](https://github.com/debrouxl/tilibs) - 🎹 🎨 🌈 🎈  
+- [tilibs](https://github.com/debrouxl/tilibs) - 🎹 🎨 🌈 💎 🎈  
   Libraries utilized by TiLP and other software to transfer and convert files between calculators.
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - 🎹 🎨 🌈  
   Contains most of the documented system calls, along with other useful information pertaining to calculator software/hardware.
@@ -249,7 +250,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE calculators.
 - [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
-- [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
+- [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 💎 🎈  
   Open-source calculator transfer software for most calculators and link cables.
 - [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - 🎹 🎨 🌈  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
