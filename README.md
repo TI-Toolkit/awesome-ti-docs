@@ -49,6 +49,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   If you have a newer 84+CE/83PCE (at least OS 5.5), arTIfiCE can be used to unlock the ability to run ASM programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
   TILP can be used as an alternative to TI's official software for sending/receiving files to/from most calculators.
+- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🎈  
+  WebTILP is a web version of TILP so you can do transfers etc. directly from your browser with no install required.
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   N-Link can be used as an alternative to TI's official software for sending/receiving files to/from the Nspire.
 - [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🎈  
@@ -251,6 +253,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
   Open-source calculator transfer software for most calculators and link cables.
+- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🎈  
+  WebTILP is a web version of TILP so you can do transfers etc. directly from your browser with no install required.
 - [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - 🎹 🎨 🌈  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
