@@ -174,7 +174,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Replete guide with tips and tricks for TI-BASIC code golfing.
 - [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340) - 🎨 🌈  
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
-- [TI-Basic Developer](http://tibasicdev.wikidot.com/) - 🎹 🎨 🌈 🎈  
+- [TI-Basic Developer](http://tibasicdev.wikidot.com/) ([mirror](https://tibasicdev.github.io/)) - 🎹 🎨 🌈 🎈  
   Documentation and tutorials for TI-BASIC programming.
 - [TI-Basic Programming Guide for the TI-84+CE](https://education.ti.com/html/eguides/graphing/84PlusCEPy/EN/content/eg_84prgm/m_splashpage/ti-progguide_ce.HTML) - 🌈  
   TI's own guide and command reference for programming in TI-BASIC. The eGuide also includes reference for other CE features and apps.
