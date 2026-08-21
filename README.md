@@ -5,6 +5,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 | 🎹 | <details><summary>Monochrome z80</summary> <ul><li>TI-82</li><li>TI-83</li><li>TI-83+</li><li>TI-84+</li></ul></details> |
 | 🎨 | TI-84+CSE |
 | 🌈 | <details><summary>Color ez80</summary> <ul><li>TI-84+CE (-T)</li><li>TI-83 PCE</li><li>Python variants of the above.</li><li>TI-82 AEP</li></ul></details> |
+| 🦎 | TI-84 Evo (-T) |
 | 🎈 | TI-Nspire |
 
 ## Contents
@@ -49,15 +50,15 @@ A collection of awesome calculator documentation resources and tools from all ov
   If you have a newer 84+CE/83PCE (at least OS 5.5), arTIfiCE can be used to unlock the ability to run ASM programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
   TILP can be used as an alternative to TI's official software for sending/receiving files to/from most calculators.
-- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🎈  
+- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🦎 🎈  
   WebTILP is a web version of TILP so you can do transfers etc. directly from your browser with no install required.
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   N-Link can be used as an alternative to TI's official software for sending/receiving files to/from the Nspire.
-- [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🎈  
+- [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🦎 🎈  
   Cemetech hosts a program archive and forum pertaining to calculators of all varieties.
 - [ticalc](https://www.ticalc.org/) - 🎹 🎨 🌈 🎈  
   ticalc is the go-to site to download calculator programs or upload your own.
-- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 🎈  
+- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 🦎 🎈  
   TI-Planet hosts a program archive and forum with many online tools and a large international userbase.
 
 ### ...learn TI-BASIC
@@ -66,7 +67,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   TI-Basic Developer's Starter Kit is a fantastic community-developed guide through the fundamentals of TI-BASIC, with culminating sample programs to test your understanding.
 - [TI-BASIC Programming Guide](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08) - 🌈  
   TI also provides an extensive and pedagogically-rich TI-BASIC tutorial.
-- [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - 🎹 🎨 🌈  
+- [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - 🎹 🎨 🌈 🦎  
   This community collection of optimized idioms and routines is essential for writing concise and effective TI-BASIC code.
 - [84+CE Catalog](https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/e-guide_ref84plus_en/content/m_appxa/aa_appxalpha.HTML) & [83PCE Catalog](https://education.ti.com/html/webhelp/EG_TI83PremCE/FR/Subsystems/e-guide_83prem_ce_fr/content/m_appxa/aa_appxalpha.HTML) - 🌈  
   TI provides documentation for every token on the calculator's built-in catalog, which you can also view online.
@@ -97,11 +98,13 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [Wabbitemu](https://github.com/sputt/wabbitemu) (🎹), [jsTIfied](https://www.cemetech.net/projects/jstified/) (🎹 🎨), or [CEmu](https://ce-programming.github.io/CEmu/) (🌈)  
   These emulators for the 83+ series of calculators allow you to run programs on your computer using a copy of your calculator's ROM.
+- [TI-84 Evo Online Calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo/ti-84-evo-online-calculator) - 🦎  
+  TI provides an online simulator for the Evo (requires a TI account and a license bundled with a physical calculator purchase).
 - [Firebird](https://github.com/nspire-emus/firebird) - 🎈  
   Nspire owners can find an emulator for their calculators in Firebird.
-- [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈  
+- [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈 🦎  
   SourceCoder is an online IDE for TI-BASIC, ASM, and C/C++.
-- [Project Builder](https://tiplanet.org/pb/) - 🌈  
+- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎  
   TI Planet's Project Builder is an online IDE for TI-BASIC, C/C++, and Python.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
   If you'd like to go offline, TokenIDE is an IDE for TI-BASIC that supports libraries like DCS and xLibC.
@@ -110,7 +113,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [WikiTI](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) - 🎹 🎨 🌈  
   WikiTI hosts community-sourced hardware documentation for the 83+ series of calculators.
-- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 🎈  
+- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 🦎 🎈  
   This spreadsheet details every known version of hardware found in TI calculators, including prototype revisions.
 
 ## All Resources
@@ -162,7 +165,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Exploration of a bug in the `binomcdf(` implementation between OS 1.03 and 5.6.1 that produces corrupted floats.
 - [Celtic CE Documentation](https://roccoloxprograms.github.io/CelticCE) - 🌈  
   Documentation of the third-party TI-BASIC library Celtic CE.
-- [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - 🎹 🎨 🌈  
+- [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - 🎹 🎨 🌈 🦎  
   Various useful routines for TI-BASIC programs.
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - 🎹 🎨  
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
@@ -170,16 +173,18 @@ A collection of awesome calculator documentation resources and tools from all ov
   TI's reference for the possible error types and messages on the CE.
 - [For( Documentation](https://github.com/TI-Toolkit/awesome-ti-docs/blob/docs/for_documentation.md) - 🎹 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
-- [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - 🎹 🎨 🌈  
+- [A Guide to Code Golf in TI-BASIC](https://gist.github.com/tkwa/f0c82e04e159d83e2321a736c95630f3) - 🎹 🎨 🌈 🦎  
   Replete guide with tips and tricks for TI-BASIC code golfing.
 - [TEXTLIB](https://www.cemetech.net/downloads/files/1340/x1340) - 🎨 🌈  
   TI-BASIC library to enhance homescreen and graphscreen drawing capabilities.
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/) ([mirror](https://tibasicdev.github.io/)) - 🎹 🎨 🌈 🎈  
   Documentation and tutorials for TI-BASIC programming.
-- [TI-Basic Programming Guide for the TI-84+CE](https://education.ti.com/html/eguides/graphing/84PlusCEPy/EN/content/eg_84prgm/m_splashpage/ti-progguide_ce.HTML) - 🌈  
+- [TI-Basic Programming Guide for the TI-84+CE](https://education.ti.com/html/eguides/graphing/84PlusCEPy/EN/content/eg_84prgm/m_splashpage/ti-progguide_ce.HTML) - 🌈 🦎  
   TI's own guide and command reference for programming in TI-BASIC. The eGuide also includes reference for other CE features and apps.
-- [TI-BASIC Useful Routines](https://learn.cemetech.net/index.php?title=TI-BASIC:Useful_Routines) - 🎹 🎨 🌈  
+- [TI-BASIC Useful Routines](https://learn.cemetech.net/index.php?title=TI-BASIC:Useful_Routines) - 🎹 🎨 🌈 🦎  
   Useful routines for TI-BASIC programs.
+- [TI Evo BASIC Changes](https://www.cemetech.net/forum/viewtopic.php?t=21097&start=0) - 🦎  
+  Running list of changes to TI-BASIC made in porting the language from the CE to the Evo.
 - [tiopt](https://www.club.cc.cmu.edu/~ajo/ti/tiopt.html) - 🎹 🎨 🌈  
   Tool to perform simple optimizations of TI-BASIC programs.
 - [QR Code Generator](https://tiplanet.org/scripts/qrcode/) - 🌈  
@@ -196,9 +201,9 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### Hardware
 
-- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 🎈  
+- [Hardware Revisions](https://docs.google.com/spreadsheets/d/1N_2tBusqjVzefKb4impi-VwdM-RgOSIMmXBemJymxA0/edit#gid=0) - 🎹 🎨 🌈 🦎 🎈  
   Documented hardware revisions, motherboards, and codenames for calculators and accessories.
-- [Packaging Codes](https://docs.google.com/spreadsheets/d/1GumHduVgHWHIiJPKUKDZEtlZmMOOxRv2RqHLKyzRKos/edit#gid=0) - 🎹 🎨 🌈 🎈  
+- [Packaging Codes](https://docs.google.com/spreadsheets/d/1GumHduVgHWHIiJPKUKDZEtlZmMOOxRv2RqHLKyzRKos/edit#gid=0) - 🎹 🎨 🌈 🦎 🎈  
   Documented serial numbers and packaging codes.
 - [Silver Link RE](https://www.cemetech.net/forum/viewtopic.php?p=302980) - 🎹 🎨 🌈  
   Documentation and schematics for the TI USB Graph Silver Link cable.
@@ -213,6 +218,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   TI-Nspire emulator for Android, iOS, Linux, macOS, and Windows.
 - [jsTIfied](https://www.cemetech.net/projects/jstified/) - 🎹 🎨  
   Online calculator emulator for Z80 TI-83+/84+ calculators.
+- [TI-84 Evo Online Calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo/ti-84-evo-online-calculator) - 🦎  
+  Official TI-84 Evo simulator in the browser (requires a TI account and a license bundled with a physical calculator purchase).
 - [TilEm](http://lpg.ticalc.org/prj_tilem/) - 🎹  
   TI Z80 emulator and debugger for Linux, macOS, Windows, and other platforms that support GTK+.
 - [Wabbitemu](https://github.com/sputt/wabbitemu) - 🎹  
@@ -220,13 +227,13 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 ### Downloads
 
-- [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🎈  
+- [Cemetech](https://www.cemetech.net/) - 🎹 🎨 🌈 🦎 🎈  
   Archive and forum site hosting discussion pertaining to calculators and other projects.
 - [TI-Basic Developer](http://tibasicdev.wikidot.com/home) - 🎹 🎨 🌈 🎈  
   Archive and forum site with a focus on TI-BASIC.
 - [ticalc](https://www.ticalc.org/) - 🎹 🎨 🌈 🎈  
   Replete archive of calculator programs and other files.
-- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 🎈  
+- [TI-Planet](https://tiplanet.org/forum/portal.php) - 🎹 🎨 🌈 🦎 🎈  
   Archive and forum site tailored to TI calculators with a large international community.
 
 ### Tools
@@ -247,16 +254,16 @@ A collection of awesome calculator documentation resources and tools from all ov
   Online rich text (Nspire Notes app) creation tool (requires TI Planet log-in).
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required).
-- [Project Builder](https://tiplanet.org/pb/) - 🌈  
-  Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE calculators.
-- [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈  
+- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎  
+  Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE and TI-84 Evo calculators.
+- [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈 🦎  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 🎈  
   Open-source calculator transfer software for most calculators and link cables.
-- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🎈  
+- [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🦎 🎈  
   WebTILP is a web version of TILP so you can do transfers etc. directly from your browser with no install required.
-- [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) - 🎹 🎨 🌈  
-  Libraries for C++/Python to read and write var files used by TI-(e)Z80 calculators.
+- [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp) (🎹 🎨 🌈 🦎)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) (🎹 🎨 🌈)  
+  Libraries for C++/Python to read and write var files used by TI-(e)Z80 and TI-84 Evo calculators.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
   Offline IDE for TI-BASIC with DCS and xLibC support.
 - [xLibC Color Picker](https://roccoloxprograms.github.io/XlibcColorPicker/) - 🎨 🌈  
