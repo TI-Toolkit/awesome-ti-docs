@@ -65,7 +65,7 @@ A collection of awesome calculator documentation resources and tools from all ov
 
 - [TI-Basic Starter Kit](http://tibasicdev.wikidot.com/starter-kit) - 🎹 🎨 🌈 🎈  
   TI-Basic Developer's Starter Kit is a fantastic community-developed guide through the fundamentals of TI-BASIC, with culminating sample programs to test your understanding.
-- [TI-BASIC Programming Guide](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08) - 🌈  
+- [TI-BASIC Programming Guide](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08) - 🌈 🦎  
   TI also provides an extensive and pedagogically-rich TI-BASIC tutorial.
 - [Code Fragments and Useful Routines](https://www.cemetech.net/forum/viewtopic.php?t=1642) - 🎹 🎨 🌈 🦎  
   This community collection of optimized idioms and routines is essential for writing concise and effective TI-BASIC code.
@@ -169,7 +169,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Various useful routines for TI-BASIC programs.
 - [DCS Developer's SDK](https://dcs.cemetech.net/index.php?title=Developers%27_SDK) - 🎹 🎨  
   Documentation of third-party TI-BASIC libraries included in Doors CS/CSE.
-- [Error Messages](https://education.ti.com/html/webhelp/EG_TI84PlusCE/UK/Subsystems/eg_ti84plusce_ref/content/m_errors/em_errormessages.HTML) - 🎹 🎨 🌈  
+- [Error Messages](https://education.ti.com/html/webhelp/EG_TI84PlusCE/UK/Subsystems/eg_ti84plusce_ref/content/m_errors/em_errormessages.HTML) - 🎹 🎨 🌈 🦎  
   TI's reference for the possible error types and messages on the CE.
 - [For( Documentation](https://github.com/TI-Toolkit/awesome-ti-docs/blob/docs/for_documentation.md) - 🎹 🎨 🌈  
   Documentation of strange behavior of the `For(` command.
