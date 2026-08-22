@@ -104,8 +104,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Nspire owners can find an emulator for their calculators in Firebird.
 - [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈 🦎  
   SourceCoder is an online IDE for TI-BASIC, ASM, and C/C++.
-- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎  
-  TI Planet's Project Builder is an online IDE for TI-BASIC, C/C++, and Python.
+- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎 🎈
+  TI Planet's Project Builder is an online IDE for TI-BASIC, C/C++, (Nspire-)Lua, and Python.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
   If you'd like to go offline, TokenIDE is an IDE for TI-BASIC that supports libraries like DCS and xLibC.
 
@@ -262,7 +262,7 @@ A collection of awesome calculator documentation resources and tools from all ov
   Open-source calculator transfer software for most calculators and link cables.
 - [WebTILP](https://web.tilp.info/) - 🎹 🎨 🌈 🦎 🎈  
   WebTILP is a web version of TILP so you can do transfers etc. directly from your browser with no install required.
-- [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp) (🎹 🎨 🌈 🦎)/[tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) (🎹 🎨 🌈)  
+- [tivars_lib_cpp](https://github.com/adriweb/tivars_lib_cpp) (🎹 🎨 🌈 🦎) / [tivars_lib_py](https://github.com/TI-Toolkit/tivars_lib_py) (🎹 🎨 🌈)  
   Libraries for C++/Python to read and write var files used by TI-(e)Z80 and TI-84 Evo calculators.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
   Offline IDE for TI-BASIC with DCS and xLibC support.
