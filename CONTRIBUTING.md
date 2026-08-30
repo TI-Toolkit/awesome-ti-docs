@@ -8,7 +8,7 @@ Adding a resource to the docs is as simple as inserting a link. Fork this reposi
 4. **Add the link, description, and supported models to `README.md`.** The entries in the `All Resources` section are sorted alphabetically. Here's a template:
 
 ```
-- [name here](link here) - ◒ 🎨 🌈 🎈  
+- [name here](link here) - 🎹 🎨 🌈 🦎 👾 🎈  
 description here
 ```
 
