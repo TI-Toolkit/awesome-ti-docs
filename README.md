@@ -105,8 +105,8 @@ A collection of awesome calculator documentation resources and tools from all ov
   Nspire owners can find an emulator for their calculators in Firebird.
 - [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈 🦎  
   SourceCoder is an online IDE for TI-BASIC, ASM, and C/C++.
-- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎 🎈
-  TI Planet's Project Builder is an online IDE for TI-BASIC, C/C++, (Nspire-)Lua, and Python.
+- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎 🎈  
+  TI-Planet's Project Builder is an online IDE for TI-BASIC, C/C++, (Nspire-)Lua, and Python.
 - [TokenIDE](https://www.cemetech.net/downloads/files/515/x515) - 🎹 🎨 🌈  
   If you'd like to go offline, TokenIDE is an IDE for TI-BASIC that supports libraries like DCS and xLibC.
 
@@ -244,19 +244,19 @@ A collection of awesome calculator documentation resources and tools from all ov
 - [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - 🌈  
   "Jailbreak" for the TI-84+CE/83PCE calculators necessary for running ASM programs on OS versions 5.5 and above.
 - [FactoRoms](https://tiplanet.org/forum/factoroms.php) - 🎹 🎨 🌈 🎈  
-  Online console ROM to calculator file conversion tool (requires TI Planet log-in).
+  Online console ROM to calculator file conversion tool (requires TI-Planet log-in).
 - [fasmg manual](https://flatassembler.net/docs.php?article=fasmg_manual) - 🎹 🎨 🌈  
   Documentation and basic examples of flat assembler g language.
-- [img2calc](https://tiplanet.org/forum/img2calc.php) - 🌈 🎈  
+- [img2calc](https://tiplanet.org/forum/img2calc.php) - 🌈 🦎 🎈  
   Image converter for a number of calculator image file types.
 - [mViewer GX Creator](https://tiplanet.org/gx) - 🎹 🎨 🌈 🎈  
-  Online PDF/Image to calculator file conversion tool (requires TI Planet log-in).
+  Online PDF/Image to calculator file conversion tool (requires TI-Planet log-in).
 - [nCreator](https://tiplanet.org/forum/edittns.php) - 🎈  
-  Online rich text (Nspire Notes app) creation tool (requires TI Planet log-in).
+  Online rich text (Nspire Notes app) creation tool (requires TI-Planet log-in).
 - [N-Link](https://lights0123.com/n-link/) - 🎈  
   Free and open-source TI-Nspire transfer software for Linux, macOS, and Windows (no license required).
-- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎  
-  Online C/C++, TI-BASIC, and Python IDE for TI-84+CE/83PCE and TI-84 Evo calculators.
+- [Project Builder](https://tiplanet.org/pb/) - 🌈 🦎 🎈   
+  Online IDE for C/C++/ASM, TI-BASIC, Lua, and Python for the CE/Evo/Nspire (requires TI-Planet log-in for editing).
 - [SourceCoder 3](https://www.cemetech.net/sc/) - 🎹 🎨 🌈 🦎  
   Online IDE for TI-BASIC, (e)Z80 ASM, and C programs.
 - [TILP](https://github.com/debrouxl/tilp_and_gfm/) - 🎹 🎨 🌈 👾 🎈  
